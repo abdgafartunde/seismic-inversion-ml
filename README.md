@@ -3,7 +3,7 @@
 End-to-end learned seismic full-waveform inversion using the OpenFWI benchmark
 dataset.
 
-**Status:** Under development ⸺ expected Q4 2026.
+**Status:** Under development.
 
 ## Planned
 
